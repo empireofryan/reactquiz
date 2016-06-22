@@ -3,7 +3,7 @@ module.exports = {
     './src/index.js'
   ],
   output: {
-    path: _dirname,
+    path: __dirname,
     filename: 'app/js/main.js'
   },
   module: {

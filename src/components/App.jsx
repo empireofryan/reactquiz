@@ -46,7 +46,7 @@ class App extends Component{
             correct: 'c'
         },
         {
-          id: 1,
+          id: 3,
           text: "What is your father's name?",
           choices: [
             {
@@ -65,7 +65,7 @@ class App extends Component{
             correct: 'c'
         },
         {
-          id: 1,
+          id: 4,
           text: "What is your friend's name?",
           choices: [
             {
